@@ -1,3 +1,6 @@
 [submodule "ansible"]
 	path = ansible
 	url = https://github.com/STE5/ansible.git
+[submodule "rohany.github.io"]
+	path = rohany.github.io
+	url = https://github.com/rohany/rohany.github.io.git
